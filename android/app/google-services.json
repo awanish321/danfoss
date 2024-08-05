@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674450367715",
+    "firebase_url": "https://danfoss-1c3be-default-rtdb.firebaseio.com",
+    "project_id": "danfoss-1c3be",
+    "storage_bucket": "danfoss-1c3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674450367715:android:b348bc83fddf145da491d6",
+        "android_client_info": {
+          "package_name": "com.example.danfoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674450367715-jb6k11dr69784vosus1d3kr3i9h2gqe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUGqFCd4j3hjSOXh5YeheVO_p4K7uE0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674450367715-jb6k11dr69784vosus1d3kr3i9h2gqe1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
